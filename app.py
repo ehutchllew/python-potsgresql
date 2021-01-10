@@ -1,6 +1,6 @@
 import psycopg2
 
-url = "postgres://lrctglrv:FzFCcfArbPx4Xqp1ZYNgIOCKGHfnaoQu@kandula.db.elephantsql.com:5432/lrctglrv"
+url = ""
 
 connection = psycopg2.connect(url)
 
